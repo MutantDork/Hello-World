@@ -1,2 +1,3 @@
 # Hello-World
-Test Foo
+Hello Humans - I am a coffe.js loving node bot. Moon Pies rock!
+
